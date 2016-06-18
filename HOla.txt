@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 ﻿Solo decía texto, fue una trampa!!!!!!!!
+=======
+Solo decía texto, fue una trampa!
+Marta me pidió que cambiara el archivo de nuevo
+>>>>>>> origin/master
